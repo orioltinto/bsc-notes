@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afdbbfd2bf881d55",
+  "active": "4c85073de9d4eedf",
   "lastOpenFiles": [
     "DailyLogs/2024/Gener/17-Gener.md",
-    "Readme.md.md",
+    "Readme.md",
     "DailyLogs/2024/Gener",
     "DailyLogs/2024",
     "Untitled",

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afdbbfd2bf881d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyLogs/2024/Gener/17-Gener.md",
+                "file": "Readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyLogs/2024/Gener/17-Gener.md",
+                "file": "Readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyLogs/2024/Gener/17-Gener.md"
+                "file": "Readme.md.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96f5a34b05f48684",
+  "active": "afdbbfd2bf881d55",
   "lastOpenFiles": [
     "DailyLogs/2024/Gener/17-Gener.md",
+    "Readme.md.md",
     "DailyLogs/2024/Gener",
     "DailyLogs/2024",
     "Untitled",

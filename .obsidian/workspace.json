@@ -11,8 +11,12 @@
             "id": "96f5a34b05f48684",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DailyLogs/2024/Gener/17-Gener.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DailyLogs/2024/Gener/17-Gener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DailyLogs/2024/Gener/17-Gener.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DailyLogs/2024/Gener/17-Gener.md"
+              }
             }
           }
         ]
@@ -139,5 +147,11 @@
     }
   },
   "active": "96f5a34b05f48684",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "DailyLogs/2024/Gener/17-Gener.md",
+    "DailyLogs/2024/Gener",
+    "DailyLogs/2024",
+    "Untitled",
+    "DailyLogs"
+  ]
 }

@@ -7,6 +7,6 @@ Ahir va ser el primer dia de feina i avui és el primer dia treballant en remot.
       - [ ] Portatil.
 - [ ] Tenir accés a Marenostrum 4.
 - [ ] Quedar amb l'Stella per discutir com ho hem de fer les pròximes dues setmanes.
-- [ ] Obsidian sincronitzat entre portàtil i sobretaula.
+- [x] Obsidian sincronitzat entre portàtil i sobretaula.
 # Revisió
 

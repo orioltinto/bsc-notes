@@ -1,44 +1,19 @@
 
 # Abans de començar
-Ahir va ser el primer dia de feina i avui és el primer dia treballant en remot. Avui posaré apunt tot el necessari per treballar en condicions. He optat per utilitzar una màquina virtual dins de windows pel problema de utilitzar un dual boot. Si no puc fer servir directament la partició d'ubuntu potser me n'hauré de desfer.
+A l'espera de tenir un usuari de marenostrum que funcioni, tinc un meeting amb l'stella avui a les 11 per comentar com ho hem de fer perquè m'enteri de com està el tema mixed precision. Després de la reunió he d'actualitzar objectius.
+
 # Objectius d'avui
-- [x] Tenir-ho tot instal·lat:
-	- [x] Sobretaula.
-	- [x] Portàtil.
+- [x] Reunió amb l'Stella
 - [ ] Tenir accés a Marenostrum 4.
-- [x] Quedar amb l'Stella per discutir com ho hem de fer les pròximes dues setmanes.
-- [x] Obsidian sincronitzat entre portàtil i sobretaula.
-- [ ] Provar d'instalar NEMO en un container.
+- [ ] Provar d'instal·lar NEMO en un contenidor.
+- [ ] Mirar tema CV.
+- [x] Concertar reunió amb la Marta Terrado i el Mario.
+
 # Revisió
-Tinc tot el necessari per treballar al portatil i al meu sobretaula.
-Encara estic pendent de tenir un usuari de marenostrum.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+L'Stella m'ha posat al dia dels projectes que inclouen mixed-precision.
+He avançat en la instal·lació de nemo en un contenidor però encara no està acabat.
 
 
 

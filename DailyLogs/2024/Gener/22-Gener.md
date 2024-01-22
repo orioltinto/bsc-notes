@@ -1,43 +1,21 @@
 
 # Abans de començar
-Ahir va ser el primer dia de feina i avui és el primer dia treballant en remot. Avui posaré apunt tot el necessari per treballar en condicions. He optat per utilitzar una màquina virtual dins de windows pel problema de utilitzar un dual boot. Si no puc fer servir directament la partició d'ubuntu potser me n'hauré de desfer.
+La setmana passada vaig aconseguir una recepta per un contenidor de NEMO amb 4.2.2, tot i que sembla que la versió del main dona problemes.
 # Objectius d'avui
-- [x] Tenir-ho tot instal·lat:
-	- [x] Sobretaula.
-	- [x] Portàtil.
-- [ ] Tenir accés a Marenostrum 4.
-- [x] Quedar amb l'Stella per discutir com ho hem de fer les pròximes dues setmanes.
-- [x] Obsidian sincronitzat entre portàtil i sobretaula.
-- [ ] Provar d'instalar NEMO en un container.
+- [x] Confirmar reunió viz.
+- [x] MN4:
+	- [x] Provar de llançar algun job.
+	- [ ] Instal·lar NEMO.
+- [ ] Container:
+	- [ ] Instalar main.
+- [ ] CVA (**Prioritat**):
+      "Remember that the Application period: January 11 - February 1 at 14pm."
+- [x] Copiar experiment a5ar:
+      Sembla que no ho han portat a AS4 encara (ho he provat amb l'experiment **a6te**) així que primer provaré de correr el que se suposa que funciona en un nou experiment (**a6th**). Mn4 ha tingut problemes de temperatura i el meu scratch encara no existeix, ho estan gestionant.
+     - [x] Llençar experiment
 # Revisió
-Tinc tot el necessari per treballar al portatil i al meu sobretaula.
-Encara estic pendent de tenir un usuari de marenostrum.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+He arreglat el que feia falta per poder utilitzar mn4 i he copiat l'experiment a5ar. Primerho he intentat amb AS4 (a6te) però portava més problemes dels esperats, així que primer intentaré correr l'experiment amb AS3.15 (a6th). He deixat l'experiment corrent a veure si demà tinc alguna cosa per la reunió amb l'Stella.
+He parlat amb la Rosa Rodríguez sobre la reunió de visualització, que hem posat per demà a la tarda.
 
 
 

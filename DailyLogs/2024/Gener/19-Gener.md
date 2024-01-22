@@ -1,42 +1,28 @@
 
 # Abans de començar
-Ahir va ser el primer dia de feina i avui és el primer dia treballant en remot. Avui posaré apunt tot el necessari per treballar en condicions. He optat per utilitzar una màquina virtual dins de windows pel problema de utilitzar un dual boot. Si no puc fer servir directament la partició d'ubuntu potser me n'hauré de desfer.
+He d'acabar d'instalar NEMO en un contenidor i mirar les coses pendents d'ahir.
 # Objectius d'avui
-- [x] Tenir-ho tot instal·lat:
-	- [x] Sobretaula.
-	- [x] Portàtil.
-- [ ] Tenir accés a Marenostrum 4.
-- [x] Quedar amb l'Stella per discutir com ho hem de fer les pròximes dues setmanes.
-- [x] Obsidian sincronitzat entre portàtil i sobretaula.
-- [ ] Provar d'instalar NEMO en un container.
+- [x] Programar reunió sobre viz.
+- [ ] MN4:
+	- [x] Tenir accés.
+	- [ ] Provar de llançar algun job.
+	- [ ] Instal·lar NEMO.
+- [ ] Container:
+	- [x] Instal·lar NEMO 4.2.2
+	- [ ] Instalar main.
+- [x] Mirar tema CV:
+      "Remember that the Application period: January 11 - February 1 at 14pm."
+      Prioritat setmana que ve.
+- [ ] Arreglar home_dir
+- [ ] Copiar experiment a5ar
 # Revisió
-Tinc tot el necessari per treballar al portatil i al meu sobretaula.
-Encara estic pendent de tenir un usuari de marenostrum.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- He aconseguit compilar nemo 4.2.2 (+deps) en un container.
+- Usuari de mn4 funcionant.
+- Reunions la setmana que ve:
+	- Knowledge transfer amb l'Stella.
+	- Performance.
+	- CES.
 
 
 

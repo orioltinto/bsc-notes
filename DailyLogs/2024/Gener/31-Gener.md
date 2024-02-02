@@ -1,22 +1,17 @@
 
 # Abans de començar
-La setmana passada vaig aconseguir una recepta per un contenidor de NEMO amb 4.2.2, tot i que sembla que la versió del main dona problemes.
+Prioritzar preparar documents per la Ramon y Cajal.
 # Objectius d'avui
-- [x] Confirmar reunió viz.
-- [x] MN4:
-	- [x] Provar de llançar algun job.
-	- [ ] Instal·lar NEMO.
-- [ ] Container:
-	- [ ] Instalar main.
+- [x] Viz:
+	- [x] TOS ORCA12 daily.
 - [ ] CVA (**Prioritat**):
       "Remember that the Application period: January 11 - February 1 at 14pm."
-- [x] Copiar experiment a5ar:
-      Sembla que no ho han portat a AS4 encara (ho he provat amb l'experiment **a6te**) així que primer provaré de correr el que se suposa que funciona en un nou experiment (**a6th**). Mn4 ha tingut problemes de temperatura i el meu scratch encara no existeix, ho estan gestionant.
-     - [x] Llençar experiment
+	- [ ] Finish CVA.
+	- [ ] Start memory...
+	      Ha arribat una nova convocatoria de Beatriu de Pinos i dilluns vinent parlaré amb la Katia sobre que fa falta preparar per fer-ho. Deixo estar lo de la RyC.
+  - [x] Anar al consell per lo del idcat.
+      
 # Revisió
-He arreglat el que feia falta per poder utilitzar mn4 i he copiat l'experiment a5ar. Primer-ho he intentat amb AS4 (a6te) però portava més problemes dels esperats, així que primer intentaré correr l'experiment amb AS3.15 (a6th). He deixat l'experiment corrent a veure si demà tinc alguna cosa per la reunió amb l'Stella.
-He parlat amb la Rosa Rodríguez sobre la reunió de visualització, que hem posat per demà a la tarda.
-
 
 
 

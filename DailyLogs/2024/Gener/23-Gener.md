@@ -2,7 +2,7 @@
 # Abans de començar
 Ahir vaig llançar un experiment que hauria de fer la implementació d'AutoRPE a NEMO. Resulta que hi ha algunes coses que s'han de tocar.
 # Objectius d'avui
-- [ ] Reunions:
+- [x] Reunions:
 	- [x] Knowledge transfer w/ Stella
 	- [x] Viz: Rosa & Mario
 - [x] Container:

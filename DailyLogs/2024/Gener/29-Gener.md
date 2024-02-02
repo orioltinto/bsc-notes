@@ -1,23 +1,18 @@
 
 # Abans de començar
-La setmana passada vaig aconseguir una recepta per un contenidor de NEMO amb 4.2.2, tot i que sembla que la versió del main dona problemes.
+Prioritzar preparar documents per la Ramon y Cajal.
 # Objectius d'avui
-- [x] Confirmar reunió viz.
-- [x] MN4:
-	- [x] Provar de llançar algun job.
-	- [ ] Instal·lar NEMO.
-- [ ] Container:
-	- [ ] Instalar main.
+- [ ] Viz:
+	- [x] Fer intro partint d'una Terra realista.
+	- [ ] Començar script per processar els 60 anys de hindcast del Roberto que es poden trobar a: **/esarchive/exp/ecearth/a550/cmorfiles/DCPP/EC-Earth-Consortium/EC-Earth3-HR/dcppA-hindcast/r1i1p1f1/day/tas/gr/v20220923**. La idea és calcular les climatologies per cada dia per obtenir climatologies daily, després utilitzar aquestes climatologies per plotejar anomalies en lloc de les temperatures.
 - [ ] CVA (**Prioritat**):
       "Remember that the Application period: January 11 - February 1 at 14pm."
-- [x] Copiar experiment a5ar:
-      Sembla que no ho han portat a AS4 encara (ho he provat amb l'experiment **a6te**) així que primer provaré de correr el que se suposa que funciona en un nou experiment (**a6th**). Mn4 ha tingut problemes de temperatura i el meu scratch encara no existeix, ho estan gestionant.
-     - [x] Llençar experiment
+  - [x] Acabar primera versió completa del CVA avui.
+  - [x] Mirar tema de signatura digital:
+        Dimecres he d'anar al consell per lo del idcat.
+      
 # Revisió
-He arreglat el que feia falta per poder utilitzar mn4 i he copiat l'experiment a5ar. Primer-ho he intentat amb AS4 (a6te) però portava més problemes dels esperats, així que primer intentaré correr l'experiment amb AS3.15 (a6th). He deixat l'experiment corrent a veure si demà tinc alguna cosa per la reunió amb l'Stella.
-He parlat amb la Rosa Rodríguez sobre la reunió de visualització, que hem posat per demà a la tarda.
-
-
+Intentant millorar el resum.
 
 
 

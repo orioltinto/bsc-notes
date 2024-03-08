@@ -1,30 +1,39 @@
 # Abans de començar
+**Ahir a l'oficina**
 TODOs de la setmana passada :
 - Prioritat número 1 centrar-me en la proposta per la BdP.
 - a6th: debug analysis
 - vid? demanar feedback
 
-De la reunió d'ahir amb el Mario:
-Ell suggereix que reutilitzi el màxim possible de projectes que ja s'han presentat sobre performance, adaptant'ho una mica i si és possible afegint el tema de Carbon-Aware scheduling. 
-  La idea és fer servir OEMES com a base i treure coses també de [GLORIA](https://docs.google.com/document/d/1_D-SN9BqW2LZxrzBl85gCOG-LEKSle-T6cX8p725pHQ/edit#heading=h.gjdgxs) i [INNOCENT](https://docs.google.com/document/d/17Elnr_PHlPAuX9zPYxEtp9cwn-wag8hv-kFPpRqQcrI/edit). Tant GLORIA com INNOCENT tenen planificacions de WP que podria reaprofitar bastant. La idea podria ser fer 4 WP:
-  - WP1: Millora de rendiment de models: mixed-precision, MPI, profiling.
-  - WP2: Lossy compression: lossy compression en dades de clima.
-  - WP3: En la línea de ClimateAwareTimeScheduling potser expandir autosubmit amb energy-climate-aware scheduling policies?
-  - WP4: Dissemination: Publicació de Papers i Visualització. 
 # Objectius d'avui
 - [ ] BdP ([[BdP_TODOs]]):
-	- [ ] Començar primer draft del projecte a partir de OEMES:
-		- [x] Copiar OEMES a un google docs.
-		- [ ] Identificar quines parts són més aprofitables i quines necessiten una intervenció més important.
+	- [ ] Continuar draft.:
+		- [x] Afegir projectes a A5.
+		      La llista ja hi és, falta descripció dels projectes.
+	- [ ] Fer C6:
+		- [x] WP0.
+		- [x] WP1. Performance
+		- [x] WP2. Lossy
+		- [x] WP3. CAWM
+		- [x] WP4. Dissemination and viz.
 - [ ] Make AutoRPE and the workflow work with 4.2.2
+      Ho deixo per quan s'hagi acabat la proposal de BdP.
 	- [ ] Analitzar problema amb l'analisis.
 - [ ] Viz:
-	- [ ] Fer textures per sithick
-	- [ ] Acabar textures de siconc
-	- [ ] Provar d'afegir sithick a la viz de TOS+Currents.
+	- [ ] Acabar video de 2 min.
+	- [ ] Explorar texture interpolation amb IA (flowframes o idealment a linux).
+	- [ ] 
 
 # Revisió
-
+Weekly report:
+- Preparing BdP call:
+	- First draft mostly done.
+- AutoRPE:
+	- Converted to an installable package. Can be installed with pip via git. Publishing it in pypi wouldn't require much work, not clear that is useful right now tho.
+- Viz:
+	- 2K render with sea-ice mostly done. (half of it available here: https://drive.google.com/file/d/1-VnLFYWzDyVZXupOO20RbDugbwJWChSt/view?usp=drive_link).
+- Other:
+	- Interviews.
 
 
 

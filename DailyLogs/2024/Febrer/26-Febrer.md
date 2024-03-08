@@ -1,30 +1,26 @@
 # Abans de començar
 TODOs de la setmana passada :
 - Prioritat número 1 centrar-me en la proposta per la BdP.
-- a6th: debug analysis
-- vid? demanar feedback
+- a6th: debug analysis -> Per després d'haver enviat BdP
+- vid? 
 
-De la reunió d'ahir amb el Mario:
-Ell suggereix que reutilitzi el màxim possible de projectes que ja s'han presentat sobre performance, adaptant'ho una mica i si és possible afegint el tema de Carbon-Aware scheduling. 
-  La idea és fer servir OEMES com a base i treure coses també de [GLORIA](https://docs.google.com/document/d/1_D-SN9BqW2LZxrzBl85gCOG-LEKSle-T6cX8p725pHQ/edit#heading=h.gjdgxs) i [INNOCENT](https://docs.google.com/document/d/17Elnr_PHlPAuX9zPYxEtp9cwn-wag8hv-kFPpRqQcrI/edit). Tant GLORIA com INNOCENT tenen planificacions de WP que podria reaprofitar bastant. La idea podria ser fer 4 WP:
-  - WP1: Millora de rendiment de models: mixed-precision, MPI, profiling.
-  - WP2: Lossy compression: lossy compression en dades de clima.
-  - WP3: En la línea de ClimateAwareTimeScheduling potser expandir autosubmit amb energy-climate-aware scheduling policies?
-  - WP4: Dissemination: Publicació de Papers i Visualització. 
 # Objectius d'avui
 - [ ] BdP ([[BdP_TODOs]]):
-	- [ ] Començar primer draft del projecte a partir de OEMES:
-		- [x] Copiar OEMES a un google docs.
-		- [ ] Identificar quines parts són més aprofitables i quines necessiten una intervenció més important.
-- [ ] Make AutoRPE and the workflow work with 4.2.2
-	- [ ] Analitzar problema amb l'analisis.
-- [ ] Viz:
-	- [ ] Fer textures per sithick
-	- [ ] Acabar textures de siconc
-	- [ ] Provar d'afegir sithick a la viz de TOS+Currents.
+	- [x] Continuar draft:
+		- [x] Començar B:
+		      Hauria de fer un mix de lo que tinc de la Vero i de lo del Pasha.
+		- [x] Continuar C6:
+			- [x] Expandir i reescriure WPs.
+		- [ ] C7: Buscar trainings
+			- [ ] 
+		- [x] C8: Fer primer draft
+		- [x] D: 
 
+- [x] Viz:
+      El Mario també ha comentat que voldria algo de atmosfera però no hi ha dades disponibles a 3hr i a daily res és aprofitable.
+	- [x] Afegir dates: animation nodes?
+	- [x] Penjar video sencer.
 # Revisió
-
 
 
 

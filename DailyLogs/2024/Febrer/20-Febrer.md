@@ -1,5 +1,4 @@
 # Abans de començar
-**Avui a l'oficina**
 TODOs de la setmana passada :
 - Prioritat número 1 centrar-me en la proposta per la BdP.
 - a6th: debug analysis

@@ -1,18 +1,15 @@
 # Abans de començar
 Mid term TODOS:
 - Vid DE.
-- Submit paper.
 Long term TODOs:
 - a6th: debug analysis
-- Mixed Precision i Oscar
-- 
+- Mixed Precision
+
+Des del dia 13 que vaig enviar el paper de compressió, he estat basicament dedicat a visualització. 
 # Objectius d'avui
+- [x] Assistir al workshop de presentacions.
 - [ ] Viz:
-	- [ ] Preparar workflow per oceà:
-		- [ ] Fer interpolació en local.
-		- [ ] Seleccionar nivells en variables d'o3d i pl.
-- [x] Paper:
-	- [x] Enviar el paper.
+	- [x] Discutir amb el Pablo i la Paloma sobre ENSO.
 - [ ] Mixed
 # Revisió
 

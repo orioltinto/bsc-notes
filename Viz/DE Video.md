@@ -30,4 +30,4 @@ Handling the discussions in our [gitlab](https://earth.bsc.es/gitlab/otintopr/vi
 	- [x] Temporal Supersampling in MN5?
 	      Able to run RIFE relying on micromamba to setup the environment.
 - [x] Prepare temperature and msl data for the "identified" heatwave: July 2021
-- [ ] Made an addon to quickly import colormaps.
+- [x] Made an addon to quickly import colormaps.
